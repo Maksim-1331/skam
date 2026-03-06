@@ -1,1 +1,1 @@
-# skam
+# publik
